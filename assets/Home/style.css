@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 100%;
+    height: 12vh;
+    background: #e766d6;
+}
+
+.navbar ul {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #ebaee3;
+    padding: 20px;
+}
+
+.navbar ul li a:hover {
+    background-color: #943387;
+}
+
+.SalimAli  img {
+    width: 600px;
+    height: 450px;
+    background-color: #ecde0e;
+}
+
+ h1:hover{ 
+    width: 100%;
+    background-color: #0c1d57;
+    }
+
+h2 {
+    text-align: center;
+    background-color: chartreuse;
+}
+.bo img {
+    background: #ecde0e;
+    width: 100%;
+}
+
+.Contant1 {
+    width: 100%;
+    height: 70px;
+
+}
+
+.Contant1 ul {
+    background: #6259df;
+    padding: 20px;
+    
+}
+
+.Contant1 ul li {
+    color: #0c1d57;
+    text-decoration: underline;
+    text-decoration-color: #00ffff;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.Contant1 ul li:hover {
+    background: #87ceeb;
+}
+
+.Contant2 p {
+    padding: 20px;
+    background-color: #92eb58;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+
+}
+
+.header1 h1 {
+    text-align: center;
+    background-color: #0c1d53;
+    color: #2348c0;
+}
+
+.header1 p {
+    padding: 20px;
+    background-color: #ecde0e;
+    font-size: 1.em;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #746e1f;
+    
+}
